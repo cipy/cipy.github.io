@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+As Chief Idea Officer of unPi, I blog here for fun & donations towards our NGO in Romania
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+For some more information about our NGO, I recommend your read our [short presentation page](https://www.unpi.ro/english/)
