@@ -19,7 +19,7 @@ From the cheapest, to the fastest, to the more extensible, to the most expensive
 - [Pi2Go Mk2 4WD robot](https://shop.4tronix.co.uk/products/pi2go2) at £83.40 (yellow TT motors capped at 240 RPM)
 - [PiCar-S robot](https://www.amazon.de/dp/B06Y41JGS3/) at €90 (also based on yellow TT motors; max RPM ~240 as well)
 - [Sphero RVR robot](https://www.sphero.com/rvr) at $249 (expensive, but most promising, hackable, and speedy)
-- [DJI RoboMaster S1 robot](https://store.dji.com/product/robomaster-s1) at €549 (despite its price, has immature Python SDK)
+- [DJI RoboMaster S1 robot](https://store.dji.com/product/robomaster-s1) at €549 (despite its price, has an immature Python SDK)
 
 P.S. DJI's RoboMaster S1 is just FYI as it exceeds the PiWars competition max. chassis dimensions by 25mm (in length)
 
