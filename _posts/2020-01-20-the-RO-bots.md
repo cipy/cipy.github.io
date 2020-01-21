@@ -7,7 +7,7 @@ After a long(er) winter break, and somewhat continuous shopping spree -- for com
 
 While it would have been really nice for us/me[?] to 3D design and print our robot's body or chassis -- as we're qualified in the Beginner branch of PiWars -- we are under no pressure to out-compete other beginners. We're going there for the fun of it, plus as a team/family experience.
 
-As you may imagine, over the past 3 months, our envisioned or possible robot designs, off-the-shelf options, plus their initial testing has made us change our minds about the _perfect_ *PiWars* 2020 competition robot many times over.
+As you may imagine, over the past 3 months, our envisioned or possible robot designs, off-the-shelf options, plus their initial testing has made us change our minds about the _perfect_ [PiWars](https://piwars.org) 2020 competition robot many times over.
 
 Here's a *very* short summary of (y)our options from 2019, as 2020 has just started.
 
